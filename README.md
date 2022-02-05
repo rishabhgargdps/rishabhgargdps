@@ -1,4 +1,6 @@
-# Hi, I'm Rishabh Garg
+<a href="#"><img width=100% height="auto" src = "https://i.imgur.com/iXuL1HG.png" height = "175px"></a>
+
+<h1> Hi, I'm <span style:color="blue">Rishabh Garg</span></h1>
 
 I am interested in Competitive coding, Blockchain development, Machine learning and Web development.
 I am actively looking out for Software development jobs!!!
