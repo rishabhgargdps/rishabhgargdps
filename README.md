@@ -1,5 +1,8 @@
 # Hi, I'm Rishabh Garg
 
+I am interested in Competitive coding, Blockchain development, Machine learning and Web development.
+I am actively looking out for Software development jobs!!!
+
 ## Tech stack
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
