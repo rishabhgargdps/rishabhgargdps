@@ -82,7 +82,7 @@
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=rishabhgargdps&count_private=true&show_icons=true&theme=ayu-mirage&hide_border=true&stroke=0000&background=060A0CD0" />
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rishabhgargdps&count_private=true&show_icons=true&theme=ayu-mirage&hide_border=true&stroke=0000&background=060A0CD0" />
+<img align="left" width="48%" alt="Recent stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rishabhgargdps&count_private=true&show_icons=true&theme=ayu-mirage&hide_border=true&stroke=0000&background=060A0CD0" />
 
 <p></p>
 
