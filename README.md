@@ -2,8 +2,7 @@
 
 <h1 align = "center"> Hi, I'm <span style:color="blue">Rishabh Garg</span></h1>
 
-I am interested in Competitive coding, Blockchain development, Machine learning and Web development.
-I am actively looking out for Software development jobs!!!
+<h5> **I am interested in Competitive coding, Blockchain development, Machine learning and Web development. I am actively looking out for Software development jobs!!!**</h5>
 
 ## Tech stack
 
