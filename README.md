@@ -86,4 +86,4 @@
 
 <p></p>
 
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhgargdps&langs_count=5&count_private=true&show_icons=true&theme=ayu-mirage" />
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhgargdps&langs_count=5&count_private=true&show_icons=true&theme=ayu-mirage&hide_border=true&stroke=0000&background=060A0CD0" />
