@@ -74,9 +74,15 @@
 
 ## Programming statistics
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=rishabhgargdps&count_private=true&show_icons=true&theme=ayu-mirage" />
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rishabh Garg's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhgargdps&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rishabhgargdps&count_private=true&show_icons=true&theme=ayu-mirage" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=rishabhgargdps&count_private=true&show_icons=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rishabhgargdps&count_private=true&show_icons=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
 
 <p></p>
 
