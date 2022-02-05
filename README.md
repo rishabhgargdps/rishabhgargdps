@@ -1,4 +1,4 @@
-# Hi, I'm <span style="color:yellow"> Rishabh Garg </span>
+# Hi, I'm <span style="color:yellow"> *Rishabh Garg* </span>
 
 ---
 
