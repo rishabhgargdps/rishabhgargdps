@@ -105,7 +105,7 @@
 
 ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)
 
-## Github statistics
+## Programming statistics
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=rishabhgargdps&count_private=true&show_icons=true&theme=ayu-mirage" />
 
