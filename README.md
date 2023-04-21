@@ -28,7 +28,7 @@
 
 ## Coding platforms
 
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Rishabh_Garg_1190/)
 
 ## IDEs
 
