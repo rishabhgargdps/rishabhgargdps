@@ -2,7 +2,7 @@
 
 <h1 align = "center"> Hi, I'm <span style:color="blue">Rishabh Garg</span></h1>
 
-<h4 align = "center"> I am interested in DSA (basic Competitive Programming), Blockchain development, Machine learning and Web development. I am actively looking out for Software development jobs!!! </h4>
+<h4 align = "center"> I am Software Engineer (L3) at Google, an Expert for Decentralized Identity (Govt. of India), Cloudfare, Blockchain, and AI </h4>
 
 ## Tech stack
 
