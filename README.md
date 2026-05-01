@@ -2,7 +2,7 @@
 
 <h1 align = "center"> Hi, I'm <span style:color="blue">Rishabh Garg</span></h1>
 
-<h4 align = "center"> I am Software Engineer (L3) at Google, an Expert for Decentralized Identity (Govt. of India), Cloudfare, Blockchain, and AI </h4>
+<h4 align = "center"> Building systems that extract and operate on imperfect real-world signals, and ensure reliable behavior—especially when powered by probabilistic AI components. </h4>
 
 ## Tech stack
 
